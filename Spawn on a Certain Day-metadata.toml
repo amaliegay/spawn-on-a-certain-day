@@ -1,0 +1,7 @@
+[package]
+name = "Spawn on a Certain Day"
+authors = ["JosephMcKean"]
+version = "1.0.0"
+
+[dependencies]
+assets = ["Spawn on a Certain Day.esp"]
